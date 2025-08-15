@@ -19,9 +19,6 @@ It provides insights into cases, deaths, and per-million statistics by country, 
 - **Power BI** for visualization and interactivity
 - COVID-19 dataset (2020-2024)
 
-# 📷 Dashboard Preview
-![Dashboard Screenshot](Screenshot 2025-08-15 214519.png)
-
 # 📌 How to Use
 1. Open the `.pbix` file in Power BI Desktop.
 2. Adjust date range and continent filter as required.
